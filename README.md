@@ -1,7 +1,3 @@
-Certainly! Here's your final `README.md` — with the **Acknowledgements** and **Repository Structure** sections removed, as requested:
-
----
-
 # Is Large Language Model Performance on Reasoning Tasks Impacted by Different Ways Questions Are Asked?
 
 📄 \[**Paper**] | \[**arXiv**]
@@ -91,7 +87,3 @@ If you use this work, please cite:
   year={2025}
 }
 ```
-
----
-
-Let me know if you'd like this exported into a markdown file or uploaded to your GitHub.
